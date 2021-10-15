@@ -3,6 +3,7 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "@material-ui/core": "^4.12.3",
     "add": "^2.0.6",
     "axios": "0.19.2",
     "babel": "^6.23.0",
